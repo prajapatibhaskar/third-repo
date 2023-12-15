@@ -1,4 +1,4 @@
-# Demo
+# Heading
 Some header text...
 
 ## Subdemo
